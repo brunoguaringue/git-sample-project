@@ -1,1 +1,1 @@
-Projeto exemplo para git. 
+Projeto exemplo para git. Versão 2. 
